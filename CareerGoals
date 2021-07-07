@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+<title> My career goals </title>
+</head>
+<body>
+<h1> Career goals for this year: </h1>
+<p style="font-family: Arial; color: red;"> I want to get a job in NASA. </p>
+<p style="font-family: Times; color: blue;"> I want to work in friendly environment. </p>
+<p style="font-family: monospace; color: green;"> I want to have work life balance. </p>
+</body>
+</html>
